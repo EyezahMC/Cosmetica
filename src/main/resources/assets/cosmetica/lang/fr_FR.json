@@ -1,26 +1,26 @@
 {
-"cosmetica.cosmeticsMenu": "Paramètres de Cosmetica",
+  "cosmetica.cosmeticsMenu": "Paramètres de Cosmetica",
   "cosmetica.cosmetics": "Paramètres de Cosmetica...",
   "cosmetica.australians": "Effets régionaux",
-  "cosmetica.doHats": "Chapeaux",
+  "cosmetica.doHats": "Chapeaux", //Gotta find something better for hats, something more like "Couvre-chef"
   "cosmetica.doShoulderBuddies": "Compagnons d'épaule",
-  "cosmetica.doLore": "Connaissance des joueurs",
-  "cosmetica.showNametagInThirdPerson": "Voir Pseudo en 3eme personne",
-  "cosmetica.customizeCosmetics": "Customisation des cosmétiques",
+  "cosmetica.doLore": "Lore des joueurs", //Don't translate Lore, it's universal so hard/impossible to translate :(
+  "cosmetica.showNametagInThirdPerson": "Voir son pseudonyme en 3ème personne", //Don't, just don't :(
+  "cosmetica.customizeCosmetics": "Personnalisation des cosmétiques",
   "cosmetica.reloadCosmetics": "Actualiser Cosmetica",
-  "cosmetica.reloadTestCosmetics": "Actualiser les models tests de Cosmetica",
-  "cosmetica.willReload": "Va actualiser",
+  "cosmetica.reloadTestCosmetics": "Actualiser les modèles de test de Cosmetica",
+  "cosmetica.willReload": "En train d'actualiser",
   "cosmetica.enabled": "ON",
   "cosmetica.disabled": "OFF",
-  "cosmetica.okay": "Okay :(",
-"cosmetica.unauthenticated.retry": "Réessayez Encore s'il-vous-plait...",
-  "cosmetica.updating": "Connection au serveurs de Cosmetica...",
-  "cosmetica.updating.message": "Mise à jour de vos paramètres...", 
-"cosmetica.options.yes": "§aActiver",
+  "cosmetica.okay": "Ok :(",
+  "cosmetica.unauthenticated.retry": "Réessayez encore s'il-vous-plaît...", //Accent missing
+  "cosmetica.updating": "Connection aux serveurs de Cosmetica...", //Multiple server :eyes:
+  "cosmetica.updating.message": "Mise à jour de vos paramètres...",
+  "cosmetica.options.yes": "§aActiver",
   "cosmetica.options.no": "§cDésactiver",
-  "cosmetica.rsewarning.title": "Voulez-vous activer les effets spécifiques de régions?",
-  "cosmetica.rsewarning.description1": "Les effets régionaux spécifiques appliquent d'autres cosmétiques basées sur le pays dans lequel vous vivez.",
-  "cosmetica.rsewarning.description2": "Cette options peut être rigolote, mais les autres joueurs peuvent deviner du pays d'où vous venez.",
-  "cosmetica.rsewarning.description3": "Si vous désactivez les effets régionaux spécifiques, vous ne serez pas capables de les voir sur les autres.", 
-"cosmetica.debugCosmetica.disable": "Débug Cosmetica désactivé"
-}
+  "cosmetica.rsewarning.title": "Voulez-vous activer les effets spécifiques de régions ?", //We are french, there are spaces before interrogation mark :P
+  "cosmetica.rsewarning.description1": "Les effets régionaux appliquent d'autres cosmétiques spécifiques basées sur le pays dans lequel vous vivez.", //Clearer
+  "cosmetica.rsewarning.description2": "Cette options peut être amusante, mais les autres joueurs peuvent deviner votre pays de résidence.", //Just more distinguished :^)
+  "cosmetica.rsewarning.description3": "Si vous désactivez les effets régionaux, vous ne serez pas capables de les voir sur les autres.",
+  "cosmetica.debugCosmetica.disable": "Débug de Cosmetica désactivé"
+    }
